@@ -2,7 +2,7 @@
 
 <img src="./assets/hero.gif" alt="Hooman Mosadegh animated terminal" width="900">
 
-# Hooman Mosadegh
+# Houman Mosadegh
 
 ### Software Developer · Full-Stack Developer in Progress · Coffee Lover ☕
 
