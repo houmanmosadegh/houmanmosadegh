@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-houmanmosadegh-181717?style=for-the-badge&logo=github)](https://github.com/houmanmosadegh)
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:houmanmosaddegh.dev@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-sudo__holirex-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sudo_holirex)
+[![Telegram](https://img.shields.io/badge/Telegram-holirex-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sudo_holirex)
 [![Instagram](https://img.shields.io/badge/Instagram-holirex-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/holirex)
 
 </div>
